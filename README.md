@@ -18,7 +18,7 @@ To install Revit on your system:
 4. Accept the agreement and complete the installation.  
 5. Launch Revit from the Start Menu or desktop shortcut.
 
-[![Revit Installation](https://www.autodesk.com/content/dam/autodesk/www/products/autodesk-revit-family/fy25/structural/concrete-design-and-detailing-large-1920x1080.jpg)](https://www.autodesk.com/content/dam/autodesk/www/products/autodesk-revit-family/fy25/structural/concrete-design-and-detailing-large-1920x1080.jpg)
+
 
 ---
 
