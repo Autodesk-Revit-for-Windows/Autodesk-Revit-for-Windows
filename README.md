@@ -34,7 +34,7 @@ Compatible with various rendering and coordination tools, Revit offers seamless 
 
 ---
 
-![Revit Interface](https://media.licdn.com/dms/image/v2/D4D12AQEWOU_kbG5rMg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1713102837035?e=2147483647&v=beta&t=vspFTEI3rWooX-k6KSadSwCivUBy8tzfx1ju3B6SiGc)
+![Revit Interface](https://files.upskill-dev.autodesk.com/public/revit_intro-3d-modeling-arch-design/img/220104_M3_06_Placing-and-repositioning-exterior-windows_001.webp)
 
 ---
 
